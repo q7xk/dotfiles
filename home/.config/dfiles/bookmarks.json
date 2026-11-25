@@ -1,0 +1,70 @@
+{
+ "version": 2,
+ "bookmarks": [
+  {
+   "path": "recent:///",
+   "label": "recent",
+   "icon": ""
+  },
+  {
+   "path": "/home/q7xk",
+   "label": "q7xk",
+   "icon": ""
+  },
+  {
+   "path": "/home/q7xk/Masaüstü",
+   "label": "Masaüstü",
+   "icon": ""
+  },
+  {
+   "path": "/home/q7xk/Belgeler",
+   "label": "Belgeler",
+   "icon": ""
+  },
+  {
+   "path": "/home/q7xk/İndirilenler",
+   "label": "İndirilenler",
+   "icon": ""
+  },
+  {
+   "path": "/home/q7xk/Müzik",
+   "label": "Müzik",
+   "icon": ""
+  },
+  {
+   "path": "/home/q7xk/Resimler",
+   "label": "Resimler",
+   "icon": ""
+  },
+  {
+   "path": "/home/q7xk/Videolar",
+   "label": "Videolar",
+   "icon": ""
+  },
+  {
+   "path": "/home/q7xk/Genel",
+   "label": "Genel",
+   "icon": ""
+  },
+  {
+   "path": "/home/q7xk/Şablonlar",
+   "label": "Şablonlar",
+   "icon": ""
+  },
+  {
+   "path": "/home/q7xk/Oyunlar",
+   "label": "Oyunlar",
+   "icon": ""
+  },
+  {
+   "path": "/home/q7xk/Projeler",
+   "label": "Projeler",
+   "icon": ""
+  },
+  {
+   "path": "trash:///",
+   "label": "trash",
+   "icon": ""
+  }
+ ]
+}

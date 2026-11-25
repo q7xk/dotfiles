@@ -1,0 +1,13 @@
+[1]
+Active Tab Index=1
+Tab Count=2
+Tab Data 0=\x00\x00\x00\x03\x00\x00\x00\x00@file:///home/q7xk/%C4%B0ndirilenler/k0z20l21.Default%20(release)\x00\x00\x00\x00\x01\x00\x00\x00Gfile:///home/q7xk/%C4%B0ndirilenler/k0z20l21.Default%20(release)/cache2\x00\x00\x00\t\x00\x00\x00Gfile:///home/q7xk/%C4%B0ndirilenler/k0z20l21.Default%20(release)/cache2\x00\x00\x00Mfile:///home/q7xk/%C4%B0ndirilenler/k0z20l21.Default%20(release)/safebrowsing\x00\x00\x00Ifile:///home/q7xk/%C4%B0ndirilenler/k0z20l21.Default%20(release)/settings\x00\x00\x00Mfile:///home/q7xk/%C4%B0ndirilenler/k0z20l21.Default%20(release)/startupCache\x00\x00\x00Kfile:///home/q7xk/%C4%B0ndirilenler/k0z20l21.Default%20(release)/thumbnails\x00\x00\x00jfile:///home/q7xk/%C4%B0ndirilenler/k0z20l21.Default%20(release)/activity-stream.frecency_boost_cache.json\x00\x00\x00sfile:///home/q7xk/%C4%B0ndirilenler/k0z20l21.Default%20(release)/activity-stream.inferred_personalization_feed.json\x00\x00\x00dfile:///home/q7xk/%C4%B0ndirilenler/k0z20l21.Default%20(release)/activity-stream.shortcut_cache.json\x00\x00\x00bfile:///home/q7xk/%C4%B0ndirilenler/k0z20l21.Default%20(release)/activity-stream.weather_feed.json\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00\x00\x00\x00\x00
+Tab Data 1=\x00\x00\x00\x03\x00\x00\x00\x00:file:///home/q7xk/.config/zen/5dcosshr.Default%20(release)\x00\x00\x00\x00\x01\x00\x00\x00Afile:///home/q7xk/.config/zen/5dcosshr.Default%20(release)/cache2\x00\x00\x00\x05\x00\x00\x00Afile:///home/q7xk/.config/zen/5dcosshr.Default%20(release)/cache2\x00\x00\x00Gfile:///home/q7xk/.config/zen/5dcosshr.Default%20(release)/safebrowsing\x00\x00\x00Cfile:///home/q7xk/.config/zen/5dcosshr.Default%20(release)/settings\x00\x00\x00Gfile:///home/q7xk/.config/zen/5dcosshr.Default%20(release)/startupCache\x00\x00\x00Efile:///home/q7xk/.config/zen/5dcosshr.Default%20(release)/thumbnails\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00\x00\x00\x00\x00
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1

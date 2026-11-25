@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Google Keep
+Exec=/opt/helium-browser-bin/helium-wrapper --profile-directory=Default --app-id=eilembjdkfgodjkcjnpgpaenohkicgjd
+Icon=/home/q7xk/.local/share/icons/hicolor/256x256/apps/chrome-eilembjdkfgodjkcjnpgpaenohkicgjd-Default.png
+StartupWMClass=crx_eilembjdkfgodjkcjnpgpaenohkicgjd

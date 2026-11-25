@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Age of History 2 Definitive Edition
+Exec="/home/q7xk/Oyunlar/aoh2def/Age of History 2 Definitive Edition/start"
+Icon=/home/q7xk/Oyunlar/aoh2def/Age of History 2 Definitive Edition/game/game/icon.png
+Type=Application
+Categories=Game;
+StartupNotify=true
+Comment=Start Age of History 2 Definitive Edition
+Comment[ru_RU]=Запустить Age of History 2 Definitive Edition

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Google Takvim
+Exec=/opt/helium-browser-bin/helium-wrapper --profile-directory=Default --app-id=kjbdgfilnfhdoflbpgamdcdgpehopbep
+Icon=/home/q7xk/.local/share/icons/hicolor/512x512/apps/chrome-kjbdgfilnfhdoflbpgamdcdgpehopbep-Default.png
+StartupWMClass=crx_kjbdgfilnfhdoflbpgamdcdgpehopbep

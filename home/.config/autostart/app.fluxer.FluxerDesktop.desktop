@@ -1,0 +1,13 @@
+[Desktop Entry]
+# X-Generated-By=fluxer-desktop
+Type=Application
+Name=Fluxer
+Comment=Fluxer
+Exec="/usr/lib/fluxer/fluxer" --autostart
+TryExec=/usr/lib/fluxer/fluxer
+Terminal=false
+Categories=Network;InstantMessaging;
+StartupWMClass=app.fluxer.FluxerDesktop
+SingleMainWindow=true
+X-GNOME-Autostart-enabled=true
+StartupNotify=false

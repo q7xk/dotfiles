@@ -1,0 +1,30 @@
+# Secrets / tokens
+**/*secret*
+**/*token*
+**/*cookie*
+**/*credential*
+**/*login*
+**/*.key
+**/*.pem
+**/gh/hosts.yml
+
+# Histories / caches / runtime
+**/.bash_history
+**/.zsh_history
+**/.python_history
+**/.lesshst
+**/.viminfo
+**/.wget-hsts
+**/.zcompdump*
+**/Cache/
+**/CacheStorage/
+**/GPUCache/
+**/Code Cache/
+**/DawnCache/
+**/Crashpad/
+**/Session Storage/
+**/Local Storage/
+**/IndexedDB/
+**/Service Worker/
+**/logs/
+**/*.log

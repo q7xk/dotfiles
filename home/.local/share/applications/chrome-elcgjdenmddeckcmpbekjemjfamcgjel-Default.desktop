@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Google Flow
+Exec=/opt/helium-browser-bin/helium-wrapper --profile-directory=Default --app-id=elcgjdenmddeckcmpbekjemjfamcgjel
+Icon=/home/q7xk/.local/share/icons/hicolor/512x512/apps/chrome-elcgjdenmddeckcmpbekjemjfamcgjel-Default.png
+StartupWMClass=crx_elcgjdenmddeckcmpbekjemjfamcgjel

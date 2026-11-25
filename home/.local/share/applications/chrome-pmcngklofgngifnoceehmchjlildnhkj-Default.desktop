@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Google Contacts
+Exec=/opt/helium-browser-bin/helium-wrapper --profile-directory=Default --app-id=pmcngklofgngifnoceehmchjlildnhkj
+Icon=/home/q7xk/.local/share/icons/hicolor/256x256/apps/chrome-pmcngklofgngifnoceehmchjlildnhkj-Default.png
+StartupWMClass=crx_pmcngklofgngifnoceehmchjlildnhkj

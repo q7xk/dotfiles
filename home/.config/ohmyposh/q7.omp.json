@@ -1,0 +1,64 @@
+
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "version": 3,
+  "final_space": true,
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+        {
+          "type": "os",
+          "style": "diamond",
+          "leading_diamond": "",
+          "trailing_diamond": "",
+          "background": "#7AA2F7",
+          "foreground": "#1A1B26",
+          "template": " {{ .Icon }} "
+        },
+        {
+          "type": "session",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "background": "#BB9AF7",
+          "foreground": "#1A1B26",
+          "template": "  {{ .UserName }} "
+        },
+        {
+          "type": "path",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "background": "#414868",
+          "foreground": "#C0CAF5",
+          "properties": {
+            "style": "agnoster"
+          },
+          "template": "  {{ .Path }} "
+        },
+        {
+          "type": "git",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "background": "#9ECE6A",
+          "foreground": "#1A1B26",
+          "template": " {{ .HEAD }}{{ if .Working.Changed }} {{ end }} "
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "segments": [
+        {
+          "type": "status",
+          "style": "plain",
+          "foreground": "#F7768E",
+          "template": "{{ if .Error }}✗ {{ .String }}{{ else }}{{ end }}"
+        }
+      ]
+    }
+  ]
+}
+
